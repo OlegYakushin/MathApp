@@ -1,0 +1,40 @@
+[
+    {
+        "id": "1",
+        "levelname": "First Level",
+        "level": "Basic Math", "levelFeatures": "level features", "levelImg": "l1.png",
+        "levels":[
+            {
+                "id": "1","order":1,
+                "desc": "description level 1", "levelFeatures": "level 1 features", "image": "1.png", "isCompleted":false, "isFree":true, "isActive": true
+            }, {"id": "2","order":2,
+                "desc": "description level 2", "levelFeatures": "level 2 features", "image": "1.png", "isCompleted": false, "isFree":true,
+                "isActive": false },
+            {"id": "3","order":3,
+                    "desc": "description level 3", "levelFeatures": "level 3 features", "image": "1.png", "isCompleted": false, "isFree":true,
+                    "isActive": false },
+            {"id": "4","order":4,
+                        "desc": "description level 4", "levelFeatures": "level 4 features", "image": "1.png", "isCompleted": false, "isFree":true,
+                        "isActive": false }
+        ]
+    },
+    {
+        "id": "2",
+        "levelname": "Second Level",
+        "level": "Basic Math", "levelFeatures": "level features", "levelImg": "l1.png",
+        "levels":[
+            {
+                "id": "1","order":1,
+                "desc": "description level 1", "levelFeatures": "level 1 features", "image": "1.png", "isCompleted":false, "isFree":true, "isActive": true
+            }, {"id": "2","order":2,
+                "desc": "description level 2", "levelFeatures": "level 2 features", "image": "1.png", "isCompleted": false, "isFree":true,
+                "isActive": false },
+            {"id": "3","order":3,
+                    "desc": "description level 3", "levelFeatures": "level 3 features", "image": "1.png", "isCompleted": false, "isFree":true,
+                    "isActive": false },
+            {"id": "4","order":4,
+                        "desc": "description level 4", "levelFeatures": "level 4 features", "image": "1.png", "isCompleted": false, "isFree":true,
+                        "isActive": false }
+        ]
+    }
+    ]
